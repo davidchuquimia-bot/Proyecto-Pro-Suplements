@@ -1,0 +1,15 @@
+.blog-screen {
+  padding-top: 1rem;
+}
+
+.blog-hero {
+  padding: 2rem;
+}
+
+.blog-hero .title-style {
+  font-size: 2rem;
+}
+
+.blog-hero p {
+  margin-bottom: 0.5rem;
+}

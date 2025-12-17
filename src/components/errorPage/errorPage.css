@@ -1,0 +1,28 @@
+.error-page {
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.error-page__content {
+  padding: 3rem 1rem;
+  background-color: #1e2736;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
+
+.error-page__title {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.error-page__subtitle {
+  color: #93b1a6;
+}
+
+.error-page__status,
+.error-page__message {
+  margin-top: 1rem;
+}
